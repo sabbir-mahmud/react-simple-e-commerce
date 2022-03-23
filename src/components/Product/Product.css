@@ -48,3 +48,8 @@ button.btn.btn-cart {
     position: absolute;
     bottom: 0;
 }
+
+button.btn.btn-cart:hover {
+    background: #b37529;
+    cursor: pointer;
+}
